@@ -39,6 +39,7 @@ public class Calculator {
 	    
 	    //test im Master
 	    //nochmal ein Test
+	    //test3
 		new Equals();
 		new Minus();
 		new Plus();
