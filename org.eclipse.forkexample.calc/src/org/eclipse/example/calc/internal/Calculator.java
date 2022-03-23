@@ -38,6 +38,7 @@ public class Calculator {
 	private void setupDefaultOperations() {
 	    
 	    //test im Master
+	    //nochmal ein Test
 		new Equals();
 		new Minus();
 		new Plus();
