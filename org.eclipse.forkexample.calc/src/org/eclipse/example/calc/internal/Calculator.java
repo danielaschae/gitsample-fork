@@ -30,6 +30,7 @@ public class Calculator {
 
 	public static String NAME = "Simple Calculator";
 /* Hier fehlte ein Kommentar */
+	// Nun wurde ein Kommentar hinzugefügt
 	public Calculator(TextProvider textProvider) {
 		this.textProvider = textProvider;
 		setupDefaultOperations();
